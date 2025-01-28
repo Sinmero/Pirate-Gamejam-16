@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e13bb28515c4b41499563f468129464c, type: 3}
+  m_Name: SlimeFaces
+  m_EditorClassIdentifier: 
+  _spriteList:
+  - {fileID: -8782466015673847202, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: -6413943505871486034, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: -2548484094422438321, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: 4644420028085691974, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: -4346888318346649496, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: 2697321946546548476, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: 934023532244011469, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: -2118349192194500076, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
+  - {fileID: 8722386302621009979, guid: 46e997c34f2ce1d4b8820c15e89c9427, type: 3}
